@@ -10,17 +10,24 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\lections\lection_8\biostats_tabs.csv">
+        <entry key="\lections\lection_8\new_biostats.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="|" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\seminars\seminar_8\example.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\lections\lection_8\new_biostats.csv">
+        <entry key="\seminars\seminar_8\user_db.csv">
           <value>
             <Attribute>
-              <option name="separator" value="|" />
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
