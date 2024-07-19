@@ -1,17 +1,4 @@
-'''
-Из созданных на уроке и в рамках домашнего задания функций, соберите пакет для работы с файлами.
 
-Создайте файл __init__.py и запишите в него все функции:
-get_dir_size,
-save_results_to_json,
-save_results_to_csv,
-save_results_to_pickle, traverse_directory.
-'''
-
-import os
-
-
-code_to_write = '''
 import os
 import json
 import csv
@@ -56,7 +43,3 @@ def save_results_to_csv(results, file_path):
 def save_results_to_pickle(results, file_path):
     with open(file_path, 'wb') as file:
         pickle.dump(results, file)
-'''
-
-with open("__init__.py", "w") as init_file:
-    init_file.write(code_to_write)

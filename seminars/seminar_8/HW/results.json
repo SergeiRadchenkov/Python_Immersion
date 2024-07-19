@@ -5,24 +5,9 @@
         "Size": 322
     },
     {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\example.csv",
-        "Type": "File",
-        "Size": 322
-    },
-    {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
-        "Type": "Directory",
-        "Size": 14788
-    },
-    {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\new_user_db.json",
         "Type": "File",
         "Size": 741
-    },
-    {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
-        "Type": "Directory",
-        "Size": 14788
     },
     {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\new_user_db.pickle",
@@ -30,19 +15,9 @@
         "Size": 418
     },
     {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
-        "Type": "Directory",
-        "Size": 14788
-    },
-    {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\t1_out.json",
         "Type": "File",
         "Size": 296
-    },
-    {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
-        "Type": "Directory",
-        "Size": 14788
     },
     {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\t1_out.pickle",
@@ -50,19 +25,9 @@
         "Size": 201
     },
     {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
-        "Type": "Directory",
-        "Size": 14788
-    },
-    {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\task_1.py",
         "Type": "File",
         "Size": 1167
-    },
-    {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
-        "Type": "Directory",
-        "Size": 14788
     },
     {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\task_2.py",
@@ -70,19 +35,9 @@
         "Size": 2190
     },
     {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
-        "Type": "Directory",
-        "Size": 14788
-    },
-    {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\task_3.py",
         "Type": "File",
         "Size": 2065
-    },
-    {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
-        "Type": "Directory",
-        "Size": 14788
     },
     {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\task_4.py",
@@ -90,19 +45,9 @@
         "Size": 1292
     },
     {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
-        "Type": "Directory",
-        "Size": 14788
-    },
-    {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\task_5.py",
         "Type": "File",
         "Size": 843
-    },
-    {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
-        "Type": "Directory",
-        "Size": 14788
     },
     {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\task_6.py",
@@ -110,29 +55,14 @@
         "Size": 1091
     },
     {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
-        "Type": "Directory",
-        "Size": 14788
-    },
-    {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\user_db.csv",
         "Type": "File",
         "Size": 90
     },
     {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
-        "Type": "Directory",
-        "Size": 14788
-    },
-    {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\user_db.json",
         "Type": "File",
         "Size": 492
-    },
-    {
-        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
-        "Type": "Directory",
-        "Size": 14788
     },
     {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\user_db.pickle",
@@ -142,6 +72,31 @@
     {
         "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW",
         "Type": "Directory",
-        "Size": 14788
+        "Size": 12508
+    },
+    {
+        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW\\results.csv",
+        "Type": "File",
+        "Size": 1738
+    },
+    {
+        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW\\results.json",
+        "Type": "File",
+        "Size": 3290
+    },
+    {
+        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW\\results.pkl",
+        "Type": "File",
+        "Size": 1891
+    },
+    {
+        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW\\task_1.py",
+        "Type": "File",
+        "Size": 5589
+    },
+    {
+        "Path": "C:\\Users\\Nitro V15\\Desktop\\Python_Immersion\\seminars\\seminar_8\\HW\\task_2.py",
+        "Type": "File",
+        "Size": 0
     }
 ]
