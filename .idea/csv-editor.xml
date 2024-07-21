@@ -45,13 +45,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\seminars\seminar_9\HW\new_file.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
       </map>
     </option>
   </component>
