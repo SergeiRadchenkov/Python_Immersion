@@ -1,36 +1,12 @@
 **********************************************************************
-, in __main__.test_addition
+, in __main__.test_employee_raise_salary
 Failed example:
-    r3.height
+    emp1.salary
 Expected:
-    6.0
+    55000.0
 Got:
-    9.0
+    55000.00000000001
 **********************************************************************
-, in __main__.test_subtraction
-Failed example:
-    r3.height
-Expected:
-    2.0
-Got:
-    1.0
-**********************************************************************
-, in __main__.test_width
-Failed example:
-    r4 = Rectangle(-4)
-Exception raised:
-    Traceback (most recent call last):
-      File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1264.0_x64__qbz5n2kfra8p0\Lib\doctest.py", line 1368, in __run
-        exec(compile(example.source, filename, "single",
-      File "<doctest __main__.test_width[2]>", line 1, in <module>
-        r4 = Rectangle(-4)
-             ^^^^^^^^^^^^^
-      File "C:\Users\Nitro V15\Desktop\Python_Immersion\seminars\seminar_14\HW\HW_task_1.py", line 60, in __init__
-        raise NegativeValueError(self.width, self.height)
-    NegativeValueError: Ўирина должна быть положительной, а не -4
-**********************************************************************
-3 items had failures:
-   1 of   5 in __main__.test_addition
-   1 of   5 in __main__.test_subtraction
-   1 of   3 in __main__.test_width
-***Test Failed*** 3 failures.
+1 items had failures:
+   1 of   3 in __main__.test_employee_raise_salary
+***Test Failed*** 1 failures.
