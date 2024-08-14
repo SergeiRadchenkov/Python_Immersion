@@ -1,0 +1,6 @@
+2024-08-14 00:50:32,934 - Обработан файл: FileInfo(name='desktop', extension='.ini', is_dir=False, parent_dir='Documents')
+2024-08-14 00:50:32,934 - Обработан файл: FileInfo(name='Ярлык для Документы (OneDrive - Личная)', extension='.lnk', is_dir=False, parent_dir='Documents')
+2024-08-14 00:50:32,934 - Обработан каталог: FileInfo(name='Мои видеозаписи', extension='', is_dir=True, parent_dir='Documents')
+2024-08-14 00:50:32,934 - Обработан каталог: FileInfo(name='мои рисунки', extension='', is_dir=True, parent_dir='Documents')
+2024-08-14 00:50:32,935 - Обработан каталог: FileInfo(name='Моя музыка', extension='', is_dir=True, parent_dir='Documents')
+2024-08-14 00:50:32,935 - Обработан каталог: FileInfo(name='Настраиваемые шаблоны Office', extension='', is_dir=True, parent_dir='Documents')
